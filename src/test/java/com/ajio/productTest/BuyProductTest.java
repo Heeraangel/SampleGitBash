@@ -67,5 +67,6 @@ public class BuyProductTest {
 		driver.findElement(By.xpath("//div[text()='Delete']")).click();
 		driver.findElement(By.xpath("//div[text()='DELETE']")).click();
 		driver.quit();
+//
 	}
 }
